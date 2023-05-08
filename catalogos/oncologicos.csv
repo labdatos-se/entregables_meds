@@ -1,0 +1,185 @@
+clave,nombre
+L01AA01,Ciclofosfamida
+L01AA02,Clorambucilo
+L01AA03,Melfalán
+L01AA06,Ifosfamida
+L01AA07,Trofosfamida
+L01AA09,Bendamustina
+L01AB01,Busulfano
+L01AB02,Treosulfano
+L01AC01,Tiotepa
+L01AD01,Carmustina
+L01AD05,Fotemustina
+L01AX03,Temozolomida
+L01AX04,Dacarbazina
+L01BA01,Metotrexato
+L01BA03,Raltitrexed
+L01BA04,Pemetrexed
+L01BA05,Pralatrexato
+L01BB02,Mercaptopurina
+L01BB03,Tioguanina
+L01BB04,Cladribina
+L01BB05,Fludarabina
+L01BB06,Clofarabina
+L01BB07,Nelarabina
+L01BC01,Citarabina
+L01BC02,Fluorouracilo
+L01BC03,Tegafur
+L01BC05,Gemcitabina
+L01BC06,Capecitabina
+L01BC07,Azacitidina
+L01BC08,Decitabina
+L01BC52,"Fluorouracilo, asociaciones"
+L01BC53,"Tegafur, asociaciones"
+L01BC59,"Trifluridina, asociaciones"
+L01CA01,Vinblastina
+L01CA02,Vincristina
+L01CA03,Vindesina
+L01CA04,Vinorelbina
+L01CA05,Vinflunina
+L01CB01,Etopósido
+L01CB02,Tenipósido
+L01CD01,Paclitaxel
+L01CD02,Docetaxel
+L01CD04,Cabazitaxel
+L01CE01,Topotecán
+L01CE02,Irinotecán
+L01CE02,Irinotecán
+L01CX M1,Viscum album
+L01CX01,Trabectedina
+L01DA01,Dactinomicina
+L01DB01,Doxorubicina
+L01DB02,Daunorubicina
+L01DB03,Epirubicina
+L01DB06,Idarubicina
+L01DB07,Mitoxantrona
+L01DB11,Pixantrona
+L01DC01,Bleomicina
+L01DC03,Mitomicina
+L01DC04,Ixabepilona
+L01EA01,Imatinib
+L01EA02,Dasatinib
+L01EA03,Nilotinib
+L01EA04,Bosutinib
+L01EA05,Ponatinib
+L01EB01,Gefitinib
+L01EB02,Erlotinib
+L01EB03,Afatinib
+L01EB04,Osimertinib
+L01EB07,Dacomitinib
+L01EC01,Vemurafenib
+L01EC02,Dabrafenib
+L01EC03,Encorafenib
+L01ED01,Crizotinib
+L01ED02,Ceritinib
+L01ED03,Alectinib
+L01ED04,Brigatinib
+L01ED05,Lorlatinib
+L01EE01,Trametinib
+L01EE02,Cobimetinib
+L01EE03,Binimetinib
+L01EE04,Selumetinib
+L01EF01,Palbociclib
+L01EF02,Ribociclib
+L01EF03,Abemaciclib
+L01EG01,Temsirolimus
+L01EG02,Everolimus
+L01EH01,Lapatinib
+L01EH02,Neratinib
+L01EH03,Tucatinib
+L01EJ01,Ruxolitinib
+L01EK01,Axitinib
+L01EK03,Tivozanib
+L01EL01,Ibrutinib
+L01EL02,Acalabrutinib
+L01EL03,Zanubrutinib
+L01EM01,Idelalisib
+L01EM03,Alpelisib
+L01EN01,Erdafitinib
+L01EX01,Sunitinib
+L01EX02,Sorafenib
+L01EX03,Pazopanib
+L01EX04,Vandetanib
+L01EX05,Regorafenib
+L01EX07,Cabozantinib
+L01EX08,Lenvatinib
+L01EX09,Nintedanib
+L01EX10,Midostaurina
+L01EX13,Gliteritinib
+L01EX14,Entrectinib
+L01EX23,Pralsetinib
+L01FA01,Rituximab
+L01FA02,Ofatumumab
+L01FA03,Obinutuzumab
+L01FB01,Inotuzumab ozogamicina
+L01FC01,Daratumumab
+L01FC02,Isatuximab
+L01FD01,Trastuzumab
+L01FD02,Pertuzumab
+L01FD03,Trastuzumab emtansina
+L01FD04,Trastuzumab deruxtecan
+L01FE M1,Nimotuzumab
+L01FE01,Cetuximab
+L01FE02,Panitumumab
+L01FE03,Necitumumab
+L01FF01,Nivolumab
+L01FF02,Pembrolizumab
+L01FF03,Durvalumab
+L01FF04,Avelumab
+L01FF05,Atezolizumab
+L01FF06,Cemiplimab
+L01FG01,Bevacizumab
+L01FG02,Ramucirumab
+L01FX M1,Racotumomab
+L01FX02,Gemtuzumab ozogamicina
+L01FX03,Catumaxomab
+L01FX04,Ipilimumab
+L01FX05,Brentuximab vedotina
+L01FX06,Dinutuximab beta
+L01FX07,Blinatumomab
+L01FX08,Elotuzumab
+L01FX09,Mogamulizumab
+L01FX10,Olaratumab
+L01FX14,Polatuzumab vedotina
+L01FX18,Amivantamab
+L01XA01,Cisplatino
+L01XA02,Carboplatino
+L01XA03,Oxaliplatino
+L01XB01,Procarbazina
+L01XD01,Porfímero sódico
+L01XD03,Aminolevulinato de metilo
+L01XD04,Aminolevulínico ácido
+L01XD07,Padeliporfina
+L01XF01,Tretinoína
+L01XF02,Alitretinoína
+L01XF03,Bexaroteno
+L01XG01,Bortezomib
+L01XG02,Carfilzomib
+L01XG03,Ixazomib
+L01XH01,Vorinostat
+L01XH03,Panobinostat
+L01XH04,Belinostat
+L01XJ01,Vismodegib
+L01XJ02,Sonidegib
+L01XK01,Olaparib
+L01XK02,Niraparib
+L01XK03,Rucaparib
+L01XK04,Talazoparib
+L01XL03,Axicabtagén ciloleucel
+L01XL04,Tisagenleucleucel
+L01XX M1,Miltefosina
+L01XX05,Hidroxicarbamida
+L01XX08,Pentostatina
+L01XX11,Estramustina
+L01XX23,Mitotano
+L01XX24,Pegaspargasa
+L01XX27,Trióxido de arsénico
+L01XX33,Celecoxib
+L01XX35,Anagrelida
+L01XX41,Eribulina
+L01XX44,Aflibercept
+L01XX52,Venetoclax
+L01XX57,Plitidepsina
+L01XY P1,Hidralazina + valproato de magnesio
+L01XY01,Citarabina y Daunorubicina
+L01XY02,Trastuzumab y pertuzumab
