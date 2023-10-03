@@ -1,0 +1,642 @@
+precio,farmacia,producto,quantity,medida,ship,precio_loc,principio,pais,product_name,tipo_cambio,farmacia_corto,presentacion,num_prod,hora_consulta
+,affordablerxmeds.com,acarbosa,QTY: 120 ,25 mg,18.0,78.00,acarbosa,Canada,acarbosa,16.7667,pchecker,QTY,120.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,acarbosa,60 tablets,25 mg,9.0,26.68,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,acarbosa,90 tablets,25 mg,9.0,31.10,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,60 tablets,25 mg,9.95,33.23,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,90 tablets,25 mg,9.95,39.05,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,60 tablets,25 mg,9.95,28.96,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,90 tablets,25 mg,9.95,33.71,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,affordablerxmeds.com,acarbosa,QTY: 120 ,50 mg,18.0,83.00,acarbosa,Canada,acarbosa,16.7667,pchecker,QTY,120.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,acarbosa,90 tablets,50 mg,0.0,48.99,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,acarbosa,270 tablets,50 mg,0.0,106.99,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,90 tablets,50 mg,9.95,49.26,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,90 tablets,50 mg,9.95,49.26,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,270 tablets,50 mg,9.95,105.30,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,270 tablets,50 mg,9.95,105.30,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,acarbosa,60 tablets,50 mg,9.0,36.59,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,acarbosa,90 tablets,50 mg,9.0,43.48,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,60 tablets,50 mg,9.95,45.89,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,90 tablets,50 mg,9.95,54.87,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,60 tablets,50 mg,9.95,39.62,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,90 tablets,50 mg,9.95,47.03,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,acarbosa,90 tablets,50 mg,9.95,49.95,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,acarbosa,270 tablets,50 mg,9.95,117.95,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,spfpharmacy.com,acarbosa,120 tablets,50 mg,9.95,67.70,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,acarbosa,QTY: 270 ,100 mg,14.95,411.95,acarbosa,Canada,acarbosa,16.7667,pchecker,QTY,270.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,acarbosa,120 tablets,100 mg,0.0,77.99,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,acarbosa,240 tablets,100 mg,0.0,133.99,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,240.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,120 tablets,100 mg,9.95,76.80,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,120 tablets,100 mg,9.95,76.80,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,240 tablets,100 mg,9.95,132.00,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,240.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,acarbosa,240 tablets,100 mg,9.95,132.00,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,240.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,180 tablets,100 mg,9.95,117.70,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,acarbosa,270 tablets,100 mg,9.95,156.89,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,180 tablets,100 mg,9.95,113.85,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,acarbosa,270 tablets,100 mg,9.95,151.64,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,270.0,03/10/2023 08:59:00
+,spfpharmacy.com,acarbosa,120 tablets,100 mg,9.95,78.20,acarbosa,Canada,acarbosa,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,affordablerxmeds.com,adenosina,QTY: 3 ,3 mg/ml,18.0,63.00,adenosina,Canada,adenosina,16.7667,pchecker,QTY,3.0,03/10/2023 08:59:00
+,affordablerxmeds.com,adenosina,QTY: 5 ,3 mg/ml,18.0,88.00,adenosina,Canada,adenosina,16.7667,pchecker,QTY,5.0,03/10/2023 08:59:00
+,spfpharmacy.com,adenosina,2 mls,3 mg/ml,9.95,103.40,adenosina,Canada,adenosina,16.7667,pchecker,mls,2.0,03/10/2023 08:59:00
+,spfpharmacy.com,adenosina,6 mls,3 mg/ml,9.95,277.70,adenosina,Canada,adenosina,16.7667,pchecker,mls,6.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,nesina,QTY: 84 ,6.25 mg,14.95,229.95,alogliptina,Canada,nesina,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,28 tablets,6.25 mg,18.0,103.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,84 tablets,6.25 mg,18.0,228.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,28 tablets,6.25 mg,9.95,236.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,84 tablets,6.25 mg,9.95,690.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,nesina,QTY: 84 ,12.5 mg,14.95,237.95,alogliptina,Canada,nesina,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,28 tablets,12.5 mg,18.0,103.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,84 tablets,12.5 mg,18.0,228.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,28 tablets,12.5 mg,9.95,236.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,84 tablets,12.5 mg,9.95,690.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,spfpharmacy.com,nesina,28 tablets,12.5 mg,9.95,114.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,nesina,84 tablets,12.5 mg,9.95,260.37,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,nesina,QTY: 84 ,25 mg,14.95,227.95,alogliptina,Canada,nesina,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,28 tablets,25 mg,18.0,103.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,affordablerxmeds.com,nesina,84 tablets,25 mg,18.0,228.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,28 tablets,25 mg,9.95,236.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,nesina,84 tablets,25 mg,9.95,690.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,spfpharmacy.com,nesina,28 tablets,25 mg,9.95,114.95,alogliptina,Canada,nesina,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,nesina,84 tablets,25 mg,9.95,260.37,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,buylowdrugs.com/,nesina,84 tablets,25 mg,0.0,235.00,alogliptina,Canada,nesina,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,affordablerxmeds.com,axitinib,QTY: 28 ,1 mg,18.0,93.00,axitinib,Canada,axitinib,16.7667,pchecker,QTY,28.0,03/10/2023 08:59:00
+,affordablerxmeds.com,axitinib,QTY: 56 ,1 mg,18.0,158.00,axitinib,Canada,axitinib,16.7667,pchecker,QTY,56.0,03/10/2023 08:59:00
+,affordablerxmeds.com,axitinib,QTY: 28 ,5 mg,18.0,243.00,axitinib,Canada,axitinib,16.7667,pchecker,QTY,28.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,inlyta,QTY: 56 ,1 mg,14.95,501.95,axitinib,Canada,inlyta,16.7667,pchecker,QTY,56.0,03/10/2023 08:59:00
+,1800rxonline.com/,inlyta,56 tablets,1 mg,0.0,549.86,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,affordablerxmeds.com,inlyta,56 tablets,1 mg,18.0,818.00,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,inlyta,28 tablets,1 mg,0.0,801.99,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,inlyta,84 tablets,1 mg,0.0,2321.99,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,28 tablets,1 mg,9.95,801.42,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,28 tablets,1 mg,9.95,801.42,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,84 tablets,1 mg,9.95,2320.23,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,84 tablets,1 mg,9.95,2320.23,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,inlyta,56 tablets,1 mg,9.0,558.00,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,inlyta,84 tablets,1 mg,9.0,750.15,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,medsengage.com,inlyta,56 tablets,1 mg,9.95,1417.65,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,inlyta,84 tablets,1 mg,9.95,1929.54,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,inlyta,60 tablets,1 mg,9.95,1399.95,axitinib,Canada,inlyta,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,affordablerxmeds.com,inlyta,QTY: 56 ,5 mg,18.0,4018.00,axitinib,Canada,inlyta,16.7667,pchecker,QTY,56.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,inlyta,28 tablets,5 mg,0.0,4721.99,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,inlyta,56 tablets,5 mg,0.0,5513.99,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,28 tablets,5 mg,9.95,4722.32,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,28 tablets,5 mg,9.95,4722.32,axitinib,Canada,inlyta,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,56 tablets,5 mg,9.95,5514.88,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,inlyta,56 tablets,5 mg,9.95,5514.88,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,inlyta,56 tablets,5 mg,9.0,5624.79,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,inlyta,84 tablets,5 mg,9.0,7666.89,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,medsengage.com,inlyta,56 tablets,5 mg,9.95,6149.07,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,inlyta,84 tablets,5 mg,9.95,8381.48,axitinib,Canada,inlyta,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,inlyta,56 tablets,5 mg,9.95,5908.95,axitinib,Canada,inlyta,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bendamustina,1 vials,25 mg,18.0,143.00,bendamustina,Canada,bendamustina,16.7667,pchecker,vials,1.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bendamustina,5 vials,25 mg,18.0,568.00,bendamustina,Canada,bendamustina,16.7667,pchecker,vials,5.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bendamustina,1 vials,100 mg,18.0,193.00,bendamustina,Canada,bendamustina,16.7667,pchecker,vials,1.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bezafibrato,30 tablets,400 mg,9.95,97.95,bezafibrato,Canada,bezafibrato,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bezafibrato,90 tablets,400 mg,9.95,267.95,bezafibrato,Canada,bezafibrato,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,velcade,3 vials,3.5 mg,14.95,3314.95,bortezomib,Canada,velcade,16.7667,pchecker,vials,3.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,velcade,1 vials,3.5 mg,9.95,2764.95,bortezomib,Canada,velcade,16.7667,pchecker,vials,1.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,velcade,3 vials,3.5 mg,9.95,8274.95,bortezomib,Canada,velcade,16.7667,pchecker,vials,3.0,03/10/2023 08:59:00
+,spfpharmacy.com,velcade,1 vials,3.5 mg,9.95,2939.45,bortezomib,Canada,velcade,16.7667,pchecker,vials,1.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bosutinib,30 tablets,400 mg,18.0,868.00,bosutinib,Canada,bosutinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bosutinib,90 tablets,400 mg,18.0,2368.00,bosutinib,Canada,bosutinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bosutinib,QTY: 90 ,400 mg,14.95,2214.95,bosutinib,Canada,bosutinib,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bosutinib,30 tablets,500 mg,18.0,968.00,bosutinib,Canada,bosutinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,affordablerxmeds.com,bosutinib,90 tablets,500 mg,18.0,2668.00,bosutinib,Canada,bosutinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bosutinib,QTY: 90 ,500 mg,14.95,2414.95,bosutinib,Canada,bosutinib,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bosulif,QTY: 84 ,100 mg,14.95,3384.95,bosutinib,Canada,bosulif,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,1800rxonline.com/,bosulif,QTY: 28 ,100 mg,0.0,515.42,bosutinib,Canada,bosulif,16.7667,pchecker,QTY,28.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,bosulif,28 tablets,100 mg,0.0,1378.99,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,bosulif,448 tablets,100 mg,0.0,22057.99,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,448.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bosulif,28 tablets,100 mg,9.95,1379.84,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bosulif,28 tablets,100 mg,9.95,1379.84,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bosulif,448 tablets,100 mg,9.95,21922.39,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,448.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bosulif,448 tablets,100 mg,9.95,21922.39,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,448.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,bosulif,56 tablets,100 mg,9.0,2414.20,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,bosulif,84 tablets,100 mg,9.0,3580.35,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,medsengage.com,bosulif,56 tablets,100 mg,9.95,2682.39,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,bosulif,84 tablets,100 mg,9.95,3978.12,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bosulif,56 tablets,100 mg,9.95,2949.63,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bosulif,84 tablets,100 mg,9.95,4374.94,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bosulif,28 tablets,100 mg,9.95,1448.95,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,bosulif,28 tablets,100 mg,9.95,1574.45,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,bosulif,84 tablets,100 mg,9.95,4671.95,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,bosulif,56 tablets,500 mg,9.0,7551.56,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,bosulif,84 tablets,500 mg,9.0,10065.74,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,medsengage.com,bosulif,56 tablets,500 mg,9.95,8181.05,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,bosulif,84 tablets,500 mg,9.95,10904.76,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bosulif,56 tablets,500 mg,9.95,8809.60,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bosulif,84 tablets,500 mg,9.95,11742.82,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bosulif,28 tablets,500 mg,9.95,4850.95,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,bosulif,28 tablets,500 mg,9.95,5249.45,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,spfpharmacy.com,bosulif,84 tablets,500 mg,9.95,15696.95,bosutinib,Canada,bosulif,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,bumetanida,28 tablets,1 mg,0.0,24.99,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,bumetanida,84 tablets,1 mg,0.0,39.99,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bumetanida,QTY: 84 ,1 mg,14.95,54.95,bumetanida,Canada,bumetanida,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumetanida,28 tablets,1 mg,9.95,25.09,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumetanida,28 tablets,1 mg,9.95,25.09,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumetanida,84 tablets,1 mg,9.95,39.49,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumetanida,84 tablets,1 mg,9.95,39.49,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,medsengage.com,bumetanida,56 tablets,1 mg,9.95,45.12,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,bumetanida,84 tablets,1 mg,9.95,60.20,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bumetanida,56 tablets,1 mg,9.95,45.13,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bumetanida,84 tablets,1 mg,9.95,60.20,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumetanida,28 tablets,1 mg,9.95,38.95,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumetanida,84 tablets,1 mg,9.95,45.95,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bumetanida,QTY: 84 ,5 mg,14.95,119.95,bumetanida,Canada,bumetanida,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,medsengage.com,bumetanida,56 tablets,5 mg,9.95,47.89,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,medsengage.com,bumetanida,84 tablets,5 mg,9.95,64.15,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bumetanida,56 tablets,5 mg,9.95,47.89,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,56.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,bumetanida,84 tablets,5 mg,9.95,64.16,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumetanida,28 tablets,5 mg,9.95,31.95,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumetanida,84 tablets,5 mg,9.95,54.95,bumetanida,Canada,bumetanida,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,buylowdrugs.com/,bumex,100 tablets,1 mg,0.0,74.00,bumetanida,Canada,bumex,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,buylowdrugs.com/,bumex,200 tablets,1 mg,0.0,119.00,bumetanida,Canada,bumex,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,bumex,100 tablets,1 mg,0.0,71.99,bumetanida,Canada,bumex,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bumex,QTY: 100 ,1 mg,14.95,70.95,bumetanida,Canada,bumex,16.7667,pchecker,QTY,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumex,100 tablets,1 mg,9.95,80.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,bumex,100 tablets,1 mg,9.95,80.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumex,30 tablets,1 mg,9.95,46.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumex,90 tablets,1 mg,9.95,114.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,bumex,30 tablets,1 mg,9.95,62.45,bumetanida,Canada,bumex,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,bumex,90 tablets,1 mg,9.95,129.65,bumetanida,Canada,bumex,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,bumex,QTY: 84 ,5 mg,14.95,89.95,bumetanida,Canada,bumex,16.7667,pchecker,QTY,84.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumex,28 tablets,5 mg,9.95,38.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,28.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,bumex,84 tablets,5 mg,9.95,90.95,bumetanida,Canada,bumex,16.7667,pchecker,tableta,84.0,03/10/2023 08:59:00
+,spfpharmacy.com,bumex,30 tablets,5 mg,9.95,145.40,bumetanida,Canada,bumex,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,bumex,90 tablets,5 mg,9.95,375.35,bumetanida,Canada,bumex,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,myleran,100 tablets,2 mg,0.0,271.99,busulfano,Canada,myleran,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,myleran,200 tablets,2 mg,0.0,520.99,busulfano,Canada,myleran,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,myleran,100 tablets,2 mg,9.95,268.29,busulfano,Canada,myleran,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,myleran,100 tablets,2 mg,9.95,268.29,busulfano,Canada,myleran,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,myleran,200 tablets,2 mg,9.95,501.25,busulfano,Canada,myleran,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,myleran,200 tablets,2 mg,9.95,501.25,busulfano,Canada,myleran,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,myleran,25 tablets,2 mg,9.95,84.95,busulfano,Canada,myleran,16.7667,pchecker,tableta,25.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,myleran,75 tablets,2 mg,9.95,204.95,busulfano,Canada,myleran,16.7667,pchecker,tableta,75.0,03/10/2023 08:59:00
+,spfpharmacy.com,myleran,25 tablets,2 mg,9.95,83.45,busulfano,Canada,myleran,16.7667,pchecker,tableta,25.0,03/10/2023 08:59:00
+,spfpharmacy.com,myleran,200 tablets,2 mg,9.95,524.45,busulfano,Canada,myleran,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,1800rxonline.com/,invokana,30 tablets,100 mg,0.0,78.80,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,1800rxonline.com/,invokana,90 tablets,100 mg,0.0,111.58,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,affordablerxmeds.com,invokana,30 tablets,100 mg,18.0,93.00,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,affordablerxmeds.com,invokana,90 tablets,100 mg,18.0,219.50,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,invokana,30 tablets,100 mg,0.0,61.99,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,invokana,90 tablets,100 mg,0.0,150.99,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,invokana,QTY: 90 ,100 mg,14.95,105.95,canagliflozina,Canada,invokana,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,30 tablets,100 mg,9.95,62.08,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,30 tablets,100 mg,9.95,62.08,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,90 tablets,100 mg,9.95,151.47,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,90 tablets,100 mg,9.95,151.47,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,invokana,60 tablets,100 mg,9.0,77.86,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,invokana,90 tablets,100 mg,9.0,106.85,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,invokana,60 tablets,100 mg,9.95,77.75,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,invokana,90 tablets,100 mg,9.95,106.30,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,invokana,60 tablets,100 mg,9.95,139.55,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,invokana,90 tablets,100 mg,9.95,194.11,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,invokana,30 tablets,100 mg,9.95,102.95,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,invokana,90 tablets,100 mg,9.95,249.95,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,invokana,30 tablets,100 mg,9.95,146.45,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,invokana,90 tablets,100 mg,9.95,356.45,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,invokana,QTY: 90 ,300 mg,14.95,219.95,canagliflozina,Canada,invokana,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,1800rxonline.com/,invokana,30 tablets,300 mg,0.0,164.22,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,1800rxonline.com/,invokana,90 tablets,300 mg,0.0,228.88,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,affordablerxmeds.com,invokana,90 tablets,300 mg,18.0,263.00,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,invokana,30 tablets,300 mg,0.0,114.99,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,invokana,90 tablets,300 mg,0.0,233.99,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,30 tablets,300 mg,9.95,114.90,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,30 tablets,300 mg,9.95,114.90,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,90 tablets,300 mg,9.95,233.79,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,invokana,90 tablets,300 mg,9.95,233.79,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,invokana,60 tablets,300 mg,9.0,157.40,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,invokana,90 tablets,300 mg,9.0,219.88,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,invokana,60 tablets,300 mg,9.95,156.61,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,invokana,90 tablets,300 mg,9.95,218.36,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,invokana,60 tablets,300 mg,9.95,186.98,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,invokana,90 tablets,300 mg,9.95,261.53,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,invokana,30 tablets,300 mg,9.95,119.95,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,invokana,90 tablets,300 mg,9.95,279.95,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,invokana,30 tablets,300 mg,9.95,146.45,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,invokana,90 tablets,300 mg,9.95,356.45,canagliflozina,Canada,invokana,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,zykadia,QTY: 150 ,150 mg,14.95,3334.95,ceritinib,Canada,zykadia,16.7667,pchecker,QTY,150.0,03/10/2023 08:59:00
+,affordablerxmeds.com,zykadia,150 capsules,150 mg,18.0,3348.00,ceritinib,Canada,zykadia,16.7667,pchecker,capsula,150.0,03/10/2023 08:59:00
+,spfpharmacy.com,zykadia,150 tablets,150 mg,9.95,10184.45,ceritinib,Canada,zykadia,16.7667,pchecker,tableta,150.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,mavenclad,4 tablets,10 mg,0.0,16976.99,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,4.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,mavenclad,10 tablets,10 mg,0.0,42435.99,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,10.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,mavenclad,4 tablets,10 mg,9.95,16980.51,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,4.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,mavenclad,4 tablets,10 mg,9.95,16980.51,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,4.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,mavenclad,10 tablets,10 mg,9.95,42436.33,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,10.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,mavenclad,10 tablets,10 mg,9.95,42436.33,cladribina,Canada,mavenclad,16.7667,pchecker,tableta,10.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,100 tablets,0.025 mg,9.95,53.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,300 tablets,0.025 mg,9.95,129.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,300.0,03/10/2023 08:59:00
+,spfpharmacy.com,clonidina,100 tablets,0.025 mg,9.95,44.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,affordablerxmeds.com,clonidina,QTY: 100 ,0.1 mg,18.0,48.00,clonidina,Canada,clonidina,16.7667,pchecker,QTY,100.0,03/10/2023 08:59:00
+,affordablerxmeds.com,clonidina,12 patches,0.1 mg,18.0,88.00,clonidina,Canada,clonidina,16.7667,pchecker,parches,12.0,03/10/2023 08:59:00
+,buylowdrugs.com/,clonidina,12 patches,0.1 mg,0.0,85.00,clonidina,Canada,clonidina,16.7667,pchecker,parches,12.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,clonidina,100 tablets,0.1 mg,0.0,23.99,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,clonidina,200 tablets,0.1 mg,0.0,33.99,clonidina,Canada,clonidina,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,100 tablets,0.1 mg,9.95,23.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,100 tablets,0.1 mg,9.95,23.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,200 tablets,0.1 mg,9.95,32.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,200 tablets,0.1 mg,9.95,32.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,clonidina,90 tablets,0.1 mg,9.0,21.97,clonidina,Canada,clonidina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,clonidina,180 tablets,0.1 mg,9.0,30.62,clonidina,Canada,clonidina,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,clonidina,60 tablets,0.1 mg,9.95,22.67,clonidina,Canada,clonidina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,clonidina,90 tablets,0.1 mg,9.95,26.30,clonidina,Canada,clonidina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,4 patches,0.1 mg,9.95,58.95,clonidina,Canada,clonidina,16.7667,pchecker,parches,4.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,8 patches,0.1 mg,9.95,68.95,clonidina,Canada,clonidina,16.7667,pchecker,parches,8.0,03/10/2023 08:59:00
+,spfpharmacy.com,clonidina,100 tablets,0.1 mg,9.95,44.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,spfpharmacy.com,clonidina,200 tablets,0.1 mg,9.95,79.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,clonidina,100 tablets,0.2 mg,0.0,41.99,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,100 tablets,0.2 mg,9.95,42.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,clonidina,100 tablets,0.2 mg,9.95,42.00,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,medsengage.com,clonidina,100 tablets,0.2 mg,9.95,78.26,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,clonidina,100 tablets,0.2 mg,9.95,81.78,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,100 tablets,0.2 mg,9.95,64.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,12 patches,0.2 mg,9.95,93.95,clonidina,Canada,clonidina,16.7667,pchecker,parches,12.0,03/10/2023 08:59:00
+,spfpharmacy.com,clonidina,100 tablets,0.2 mg,9.95,44.95,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,medsengage.com,clonidina,100 tablets,0.3 mg,9.95,67.51,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,clonidina,100 tablets,0.3 mg,9.95,73.27,clonidina,Canada,clonidina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,8 patches,0.3 mg,9.95,88.95,clonidina,Canada,clonidina,16.7667,pchecker,parches,8.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,clonidina,12 patches,0.3 mg,9.95,104.95,clonidina,Canada,clonidina,16.7667,pchecker,parches,12.0,03/10/2023 08:59:00
+,affordablerxmeds.com,catapres,QTY: 100 ,0.1 mg,18.0,58.00,clonidina,Canada,catapres,16.7667,pchecker,QTY,100.0,03/10/2023 08:59:00
+,affordablerxmeds.com,catapres,QTY: 300 ,0.1 mg,18.0,98.00,clonidina,Canada,catapres,16.7667,pchecker,QTY,300.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,catapres,100 tablets,0.1 mg,0.0,46.99,clonidina,Canada,catapres,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,catapres,200 tablets,0.1 mg,0.0,72.99,clonidina,Canada,catapres,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,catapres,QTY: 200 ,0.1 mg,14.95,71.95,clonidina,Canada,catapres,16.7667,pchecker,QTY,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,catapres,100 tablets,0.1 mg,9.95,46.87,clonidina,Canada,catapres,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,catapres,100 tablets,0.1 mg,9.95,46.87,clonidina,Canada,catapres,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,catapres,200 tablets,0.1 mg,9.95,78.00,clonidina,Canada,catapres,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,catapres,200 tablets,0.1 mg,9.95,78.00,clonidina,Canada,catapres,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,catapres,200 tablets,0.1 mg,9.0,81.58,clonidina,Canada,catapres,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,catapres,300 tablets,0.1 mg,9.0,107.96,clonidina,Canada,catapres,16.7667,pchecker,tableta,300.0,03/10/2023 08:59:00
+,medsengage.com,catapres,100 tablets,0.1 mg,9.95,45.79,clonidina,Canada,catapres,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,medsengage.com,catapres,300 tablets,0.1 mg,9.95,107.69,clonidina,Canada,catapres,16.7667,pchecker,tableta,300.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,catapres,200 tablets,0.1 mg,9.95,79.07,clonidina,Canada,catapres,16.7667,pchecker,tableta,200.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,catapres,300 tablets,0.1 mg,9.95,104.20,clonidina,Canada,catapres,16.7667,pchecker,tableta,300.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,xalkori,60 capsules,200 mg,0.0,9607.99,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,xalkori,180 capsules,200 mg,0.0,28821.99,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,60 capsules,200 mg,9.95,9608.40,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,60 capsules,200 mg,9.95,9608.40,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,180 capsules,200 mg,9.95,28802.80,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,180 capsules,200 mg,9.95,28802.80,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,xalkori,60 capsules,200 mg,9.0,9292.02,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,xalkori,180 capsules,200 mg,9.0,22288.25,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,medsengage.com,xalkori,60 capsules,200 mg,9.95,9511.39,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,medsengage.com,xalkori,180 capsules,200 mg,9.95,22813.42,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,xalkori,60 capsules,200 mg,9.95,9948.24,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,xalkori,180 capsules,200 mg,9.95,23861.85,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,xalkori,QTY: 180 ,250 mg,14.95,22332.95,crizotinib,Canada,xalkori,16.7667,pchecker,QTY,180.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,xalkori,60 capsules,250 mg,0.0,9607.99,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,60 capsules,250 mg,9.95,9607.40,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,xalkori,60 capsules,250 mg,9.95,9607.40,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,xalkori,60 capsules,250 mg,9.0,9312.84,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,xalkori,180 capsules,250 mg,9.0,22338.22,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,medsengage.com,xalkori,60 capsules,250 mg,9.95,9662.68,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,medsengage.com,xalkori,180 capsules,250 mg,9.95,23176.51,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,xalkori,60 capsules,250 mg,9.95,9895.28,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,xalkori,180 capsules,250 mg,9.95,23734.74,crizotinib,Canada,xalkori,16.7667,pchecker,capsula,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dactinomicina,3 injections,0.5 mg/ml,18.0,75.00,dactinomicina,Canada,dactinomicina,16.7667,pchecker,inyeccion,3.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dactinomicina,8 injections,0.5 mg/ml,18.0,169.00,dactinomicina,Canada,dactinomicina,16.7667,pchecker,inyeccion,8.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,dapagliflozina,QTY: 90 ,5 mg,14.95,84.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,1800rxonline.com/,dapagliflozina,30 tablets,5 mg,0.0,27.12,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,1800rxonline.com/,dapagliflozina,90 tablets,5 mg,0.0,58.99,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dapagliflozina,30 tablets,5 mg,0.0,26.99,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dapagliflozina,90 tablets,5 mg,0.0,46.99,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,30 tablets,5 mg,9.95,26.70,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,30 tablets,5 mg,9.95,26.70,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,90 tablets,5 mg,9.95,45.90,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,90 tablets,5 mg,9.95,45.90,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dapagliflozina,60 tablets,5 mg,9.0,33.55,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dapagliflozina,90 tablets,5 mg,9.0,43.89,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,dapagliflozina,60 tablets,5 mg,9.95,34.57,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,dapagliflozina,90 tablets,5 mg,9.95,44.93,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dapagliflozina,60 tablets,5 mg,9.95,36.18,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dapagliflozina,90 tablets,5 mg,9.95,47.23,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dapagliflozina,100 tablets,5 mg,9.95,188.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,spfpharmacy.com,dapagliflozina,100 tablets,5 mg,9.95,99.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,dapagliflozina,QTY: 90 ,10 mg,14.95,70.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,1800rxonline.com/,dapagliflozina,30 tablets,10 mg,0.0,29.36,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,1800rxonline.com/,dapagliflozina,90 tablets,10 mg,0.0,68.52,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dapagliflozina,30 tablets,10 mg,0.0,27.99,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dapagliflozina,90 tablets,10 mg,0.0,37.99,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,30 tablets,10 mg,9.95,27.10,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,30 tablets,10 mg,9.95,27.10,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,90 tablets,10 mg,9.95,37.80,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dapagliflozina,90 tablets,10 mg,9.95,37.80,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dapagliflozina,60 tablets,10 mg,9.0,29.65,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dapagliflozina,90 tablets,10 mg,9.0,38.35,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,dapagliflozina,60 tablets,10 mg,9.95,30.60,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,dapagliflozina,90 tablets,10 mg,9.95,39.30,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dapagliflozina,60 tablets,10 mg,9.95,36.70,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dapagliflozina,90 tablets,10 mg,9.95,47.97,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dapagliflozina,100 tablets,10 mg,9.95,198.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,100.0,03/10/2023 08:59:00
+,spfpharmacy.com,dapagliflozina,30 tablets,10 mg,9.95,54.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dapagliflozina,90 tablets,10 mg,9.95,99.95,dapagliflozina,Canada,dapagliflozina,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dasatinib,QTY: 60 ,20 mg,18.0,193.00,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,20 mg,0.0,282.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,180 tablets,20 mg,0.0,1689.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,20 mg,9.95,287.31,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,20 mg,9.95,287.31,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,180 tablets,20 mg,9.95,1674.10,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,180 tablets,20 mg,9.95,1674.10,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,60 tablets,20 mg,9.0,417.85,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,90 tablets,20 mg,9.0,590.00,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,120 tablets,20 mg,9.95,422.69,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,180 tablets,20 mg,9.95,596.48,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,120 tablets,20 mg,9.95,408.68,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,180 tablets,20 mg,9.95,576.56,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,60 tablets,20 mg,9.95,1708.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,30 tablets,20 mg,9.95,996.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,90 tablets,20 mg,9.95,2939.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,dasatinib,QTY: 180 ,50 mg,14.95,1044.95,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dasatinib,QTY: 60 ,50 mg,18.0,393.00,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,buylowdrugs.com/,dasatinib,60 tablets,50 mg,0.0,2282.00,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,50 mg,0.0,563.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,90 tablets,50 mg,0.0,1626.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,50 mg,9.95,563.32,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,50 mg,9.95,563.32,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,50 mg,9.95,1626.41,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,50 mg,9.95,1626.41,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,60 tablets,50 mg,9.0,443.08,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,180 tablets,50 mg,9.0,1181.02,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,120 tablets,50 mg,9.95,836.18,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,180 tablets,50 mg,9.95,1184.07,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,120 tablets,50 mg,9.95,737.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,180 tablets,50 mg,9.95,1044.54,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,30 tablets,50 mg,9.95,2558.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,90 tablets,50 mg,9.95,7629.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,30 tablets,50 mg,9.95,1994.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,90 tablets,50 mg,9.95,5931.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,dasatinib,QTY: 180 ,70 mg,14.95,1719.95,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dasatinib,QTY: 60 ,70 mg,18.0,708.00,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,affordablerxmeds.com,dasatinib,QTY: 120 ,70 mg,18.0,1168.00,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,120.0,03/10/2023 08:59:00
+,buylowdrugs.com/,dasatinib,60 tablets,70 mg,0.0,2763.00,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,70 mg,0.0,630.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,90 tablets,70 mg,0.0,1828.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,70 mg,9.95,631.50,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,70 mg,9.95,631.50,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,70 mg,9.95,1829.57,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,70 mg,9.95,1829.57,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,60 tablets,70 mg,9.0,655.85,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,180 tablets,70 mg,9.0,1755.50,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,120 tablets,70 mg,9.95,1240.90,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,180 tablets,70 mg,9.95,1759.19,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,120 tablets,70 mg,9.95,1211.07,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,180 tablets,70 mg,9.95,1716.80,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,30 tablets,70 mg,9.95,408.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,90 tablets,70 mg,9.95,999.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,30 tablets,70 mg,9.95,2204.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,90 tablets,70 mg,9.95,6561.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,80 mg,0.0,3798.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,90 tablets,80 mg,0.0,11347.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,80 mg,9.95,3623.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,80 mg,9.95,3623.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,80 mg,9.95,10847.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,80 mg,9.95,10847.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,30 tablets,80 mg,9.95,4513.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,90 tablets,80 mg,9.95,13461.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,30 tablets,80 mg,9.95,3989.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,90 tablets,80 mg,9.95,11916.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,dasatinib,QTY: 90 ,100 mg,14.95,8333.95,dasatinib,Canada,dasatinib,16.7667,pchecker,QTY,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,100 mg,0.0,3306.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,90 tablets,100 mg,0.0,9410.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,100 mg,9.95,3312.08,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,100 mg,9.95,3312.08,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,100 mg,9.95,9415.69,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,100 mg,9.95,9415.69,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,60 tablets,100 mg,9.0,6238.39,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,dasatinib,90 tablets,100 mg,9.0,8503.62,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,medsengage.com,dasatinib,60 tablets,100 mg,9.95,6493.23,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,60 tablets,100 mg,9.95,6293.74,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,dasatinib,90 tablets,100 mg,9.95,8578.76,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,30 tablets,100 mg,9.95,5063.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,90 tablets,100 mg,9.95,15111.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,30 tablets,100 mg,9.95,4199.45,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,dasatinib,90 tablets,100 mg,9.95,12546.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,30 tablets,140 mg,0.0,4573.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,dasatinib,90 tablets,140 mg,0.0,13719.99,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,140 mg,9.95,4584.55,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,30 tablets,140 mg,9.95,4584.55,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,140 mg,9.95,13731.25,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,dasatinib,90 tablets,140 mg,9.95,13731.25,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,dasatinib,30 tablets,140 mg,9.95,4584.95,dasatinib,Canada,dasatinib,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,sprycel,QTY: 60 ,20 mg,14.95,1021.20,dasatinib,Canada,sprycel,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,1800rxonline.com/,sprycel,60 tablets,20 mg,0.0,1032.30,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,1800rxonline.com/,sprycel,180 tablets,20 mg,0.0,2906.63,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,60 tablets,20 mg,18.0,968.00,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,180 tablets,20 mg,18.0,2568.00,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,buylowdrugs.com/,sprycel,60 tablets,20 mg,0.0,2399.00,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,sprycel,60 tablets,20 mg,0.0,1020.99,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,sprycel,60 tablets,20 mg,9.95,1020.60,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,sprycel,60 tablets,20 mg,9.95,1020.60,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,sprycel,60 tablets,20 mg,9.0,2866.86,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,sprycel,180 tablets,20 mg,9.0,7725.23,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,120 tablets,20 mg,9.95,1482.03,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,180 tablets,20 mg,9.95,2101.85,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,sprycel,60 tablets,20 mg,9.95,2809.88,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,sprycel,180 tablets,20 mg,9.95,7569.77,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,sprycel,60 tablets,20 mg,9.95,1759.95,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,60 tablets,20 mg,9.95,2624.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,180 tablets,20 mg,9.95,7790.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,QTY: 60 ,50 mg,18.0,1518.00,dasatinib,Canada,sprycel,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,QTY: 120 ,50 mg,18.0,2768.00,dasatinib,Canada,sprycel,16.7667,pchecker,QTY,120.0,03/10/2023 08:59:00
+,canadianpharmacystore.com,sprycel,60 tablets,50 mg,0.0,1516.99,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,sprycel,60 tablets,50 mg,9.95,1527.35,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,discountcanadadrugs.com/,sprycel,60 tablets,50 mg,9.95,1527.35,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,sprycel,120 tablets,50 mg,9.0,5715.70,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,sprycel,180 tablets,50 mg,9.0,15417.09,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,120 tablets,50 mg,9.95,4484.34,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,180 tablets,50 mg,9.95,6368.29,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,sprycel,60 tablets,50 mg,9.95,5600.97,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,sprycel,180 tablets,50 mg,9.95,15105.71,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,sprycel,60 tablets,50 mg,9.95,3408.95,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,60 tablets,50 mg,9.95,5249.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,180 tablets,50 mg,9.95,15602.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,QTY: 60 ,70 mg,18.0,1818.00,dasatinib,Canada,sprycel,16.7667,pchecker,QTY,60.0,03/10/2023 08:59:00
+,affordablerxmeds.com,sprycel,QTY: 120 ,70 mg,18.0,3418.00,dasatinib,Canada,sprycel,16.7667,pchecker,QTY,120.0,03/10/2023 08:59:00
+,liferxpharmacy.com/,sprycel,60 tablets,70 mg,9.0,3040.91,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,120 tablets,70 mg,9.95,2921.12,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,120.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,180 tablets,70 mg,9.95,4146.87,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,180.0,03/10/2023 08:59:00
+,offshorecheapmeds.com,sprycel,60 tablets,70 mg,9.95,2998.55,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,sprycel,60 tablets,70 mg,9.95,6089.95,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,60 tablets,70 mg,9.95,6299.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,60 tablets,80 mg,9.95,10002.67,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,60.0,03/10/2023 08:59:00
+,medsengage.com,sprycel,90 tablets,80 mg,9.95,14210.13,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,pricepropharmacy.com/,sprycel,30 tablets,80 mg,9.95,9859.95,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,30 tablets,80 mg,9.95,5039.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,30.0,03/10/2023 08:59:00
+,spfpharmacy.com,sprycel,90 tablets,80 mg,9.95,14972.45,dasatinib,Canada,sprycel,16.7667,pchecker,tableta,90.0,03/10/2023 08:59:00
+,canadianprescriptiondrugstore.com/,sprycel,QTY: 30 ,100 mg,"
+                                
+                                    Price includes $14.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide except Canada from Australia, Canada, India, Mauritius, New Zealand, Turkey, United Kingdom
+","$4,499.95",dasatinib,Canada,,,,,,
+,canadianpharmacystore.com,sprycel,30 tablets,100 mg,"
+Free Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$5,192.99",dasatinib,Canada,,,,,,
+,canadianpharmacystore.com,sprycel,90 tablets,100 mg,"
+Free Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$15,576.99",dasatinib,Canada,,,,,,
+,discountcanadadrugs.com/,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$5,199.55",dasatinib,Canada,,,,,,
+,discountcanadadrugs.com/,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$5,199.55",dasatinib,Canada,,,,,,
+,discountcanadadrugs.com/,sprycel,90 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$15,576.25",dasatinib,Canada,,,,,,
+,discountcanadadrugs.com/,sprycel,90 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, Mauritius, New Zealand, United Kingdom
+","$15,576.25",dasatinib,Canada,,,,,,
+,liferxpharmacy.com/,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.00 Shipping
+                                        (Free for First Order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$4,635.04",dasatinib,Canada,,,,,,
+,medsengage.com,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$4,653.58",dasatinib,Canada,,,,,,
+,offshorecheapmeds.com,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide Except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$4,530.45",dasatinib,Canada,,,,,,
+,pricepropharmacy.com/,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, India, Mauritius, New Zealand, US, United Kingdom
+","$10,879.95",dasatinib,Canada,,,,,,
+,spfpharmacy.com,sprycel,30 tablets,100 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from CanadaTier 1
+","$5,459.45",dasatinib,Canada,,,,,,
+,liferxpharmacy.com/,sprycel,30 tablets,140 mg,"
+                                
+                                    Price includes $9.00 Shipping
+                                        (Free for First Order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$6,536.28",dasatinib,Canada,,,,,,
+,liferxpharmacy.com/,sprycel,90 tablets,140 mg,"
+                                
+                                    Price includes $9.00 Shipping
+                                        (Free for First Order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$17,632.65",dasatinib,Canada,,,,,,
+,medsengage.com,sprycel,60 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$12,490.27",dasatinib,Canada,,,,,,
+,medsengage.com,sprycel,90 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$17,745.14",dasatinib,Canada,,,,,,
+,offshorecheapmeds.com,sprycel,30 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide Except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$6,413.29",dasatinib,Canada,,,,,,
+,offshorecheapmeds.com,sprycel,90 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping
+                                        (Free for first order)
+                                    .
+                                
+        
+                                
+                                    Ships Worldwide Except Canada from Australia, Canada, India, Mauritius, Turkey, US, United Kingdom
+","$17,298.97",dasatinib,Canada,,,,,,
+,pricepropharmacy.com/,sprycel,30 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from Australia, Canada, India, Mauritius, New Zealand, US, United Kingdom
+","$12,379.95",dasatinib,Canada,,,,,,
+,spfpharmacy.com,sprycel,30 tablets,140 mg,"
+                                
+                                    Price includes $9.95 Shipping.
+                                
+        
+                                
+                                    Ships Worldwide from CanadaTier 1
+","$5,774.45",dasatinib,Canada,,,,,,
